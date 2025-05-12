@@ -1,3 +1,3 @@
-# Student Depression Dataset
+# Student Depression Prediction
 
 This is my final project
